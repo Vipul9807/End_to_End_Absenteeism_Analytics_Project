@@ -82,6 +82,8 @@ Stored model outputs in a MySQL database and created interactive Tableau dashboa
 - Identified key absenteeism risk drivers, including absence reason categories, transportation expense, and personal factors.
 - Enabled structured prediction outputs for proactive workforce monitoring.
 
+<img width="1412" height="666" alt="Screenshot 2026-03-01 182910" src="https://github.com/user-attachments/assets/1234fc71-005e-45c7-9aec-c1cbb7254652" />
+
 - Implement proactive monitoring: Use predictive risk scores to identify high-risk employees early and initiate preventive HR interventions.
 - Target key risk drivers: Focus on recurring absence reasons and operational stress factors revealed through dashboard insights.
 - Integrate into HR workflow: Embed the prediction system into routine workforce planning processes.
