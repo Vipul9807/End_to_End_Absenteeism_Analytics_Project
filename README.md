@@ -2,6 +2,8 @@
 
 Employee absenteeism prediction system built using Python, Logistic Regression, MySQL, and Tableau for data-driven workforce analytics.
 
+<img width="1909" height="1022" alt="Screenshot 2026-03-01 162909" src="https://github.com/user-attachments/assets/eb37c285-bfa6-44d0-90fb-a0609f88dbc6" />
+
 ## Executive Summary
 
 Employee absenteeism poses a significant challenge to organizational productivity and workforce planning. The absence of predictive insights often leads to reactive decision-making and inefficient resource allocation.
