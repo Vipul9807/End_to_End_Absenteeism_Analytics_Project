@@ -48,30 +48,26 @@ Stored model outputs in a MySQL database and created interactive Tableau dashboa
 
 ## Skills & Technologies Used :
 
-### Programming & Data Processing
+1 Programming & Data Processing :
 - Python
 - Pandas
 
-### Machine Learning
-
+2 Machine Learning :
 - Logistic Regression
 - Model Evaluation (Train/Test Split, Accuracy Measurement)
 - Feature Engineering
 - Data Preprocessing
 - Feature Scaling (StandardScaler)
 
-### Software Development
-
+3 Software Development :
 - Object-Oriented Programming (OOP)
 - Model Serialization (Pickle)
 
-### Database Management
-
+4 Database Management :
 - MySQL
 - Database Integration with Python
 
-### Business Intelligence & Visualization
-
+5 Business Intelligence & Visualization :
 - Tableau
 - Data Interpretation & Insight Generation
 
@@ -89,13 +85,13 @@ Stored model outputs in a MySQL database and created interactive Tableau dashboa
 - Integrate into HR workflow: Embed the prediction system into routine workforce planning processes.
 - Enhance model performance: Explore advanced algorithms (e.g., Random Forest, Gradient Boosting) and incorporate additional HR variables for improved accuracy.
 
+## Project Limitations 
+
+- The Tableau dashboard insights are based on approximately 40 observations from the test dataset, which may limit the generalizability of trends and business conclusions at an organizational scale.
+- The predictive model relies on historical absenteeism variables available in the dataset and does not incorporate additional organizational or behavioral factors (e.g., job role, work environment, or employee engagement), which may influence prediction accuracy.
+
 ## Future Scope & Strategic Recommendations
 
 - Develop an automated ETL process to ingest live HR data and enable real-time absenteeism risk monitoring instead of batch-based predictions.
 - Experiment with ensemble methods such as Random Forest or Gradient Boosting to improve predictive accuracy and capture non-linear relationships.
 - Build a lightweight web application (e.g., using Flask or Streamlit) to allow HR teams to input employee data and instantly receive risk predictions and insights.
-
-## Project Limitations 
-
-- The Tableau dashboard insights are based on approximately 40 observations from the test dataset, which may limit the generalizability of trends and business conclusions at an organizational scale.
-- The predictive model relies on historical absenteeism variables available in the dataset and does not incorporate additional organizational or behavioral factors (e.g., job role, work environment, or employee engagement), which may influence prediction accuracy.
