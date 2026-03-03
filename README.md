@@ -18,14 +18,6 @@ Business Impact :
 - Enabled proactive absenteeism risk identification
 - Transformed raw HR data into actionable decision-support insights
 
-Next Steps
-
-- Improve model performance using advanced algorithms (e.g., Random Forest, XGBoost)
-- Implement automated data pipelines for real-time updates
-- Deploy the solution via a web-based interface for organizational use
-
-This project demonstrates the practical integration of Machine Learning, database systems, and business intelligence to solve a real-world workforce analytics problem.
-
 ## Business Problem
 
 Unplanned employee absenteeism creates operational disruption, reduces productivity, and increases workforce management costs. Most organizations rely on historical reporting to track absenteeism, but lack predictive mechanisms to identify high-risk employees in advance.
@@ -48,28 +40,15 @@ Stored model outputs in a MySQL database and created interactive Tableau dashboa
 
 ## Skills & Technologies Used :
 
-1 Programming & Data Processing :
-- Python
-- Pandas
+- Programming & Data Processing : Python, Pandas
 
-2 Machine Learning :
-- Logistic Regression
-- Model Evaluation (Train/Test Split, Accuracy Measurement)
-- Feature Engineering
-- Data Preprocessing
-- Feature Scaling (StandardScaler)
+- Machine Learning : Logistic Regression, Model Evaluation (Train/Test Split, Accuracy Measurement) ,Feature Engineering , Data Preprocessing, Feature Scaling (StandardScaler)
 
-3 Software Development :
-- Object-Oriented Programming (OOP)
-- Model Serialization (Pickle)
+- Software Development : Object-Oriented Programming (OOP), Model Serialization (Pickle)
 
-4 Database Management :
-- MySQL
-- Database Integration with Python
+- Database Management : MySQL, Database Integration with Python
 
-5 Business Intelligence & Visualization :
-- Tableau
-- Data Interpretation & Insight Generation
+- Business Intelligence & Visualization : Tableau , Data Interpretation & Insight Generation
 
 ## Results & Business Recommendations
 
@@ -89,6 +68,8 @@ Stored model outputs in a MySQL database and created interactive Tableau dashboa
 
 - The Tableau dashboard insights are based on approximately 40 observations from the test dataset, which may limit the generalizability of trends and business conclusions at an organizational scale.
 - The predictive model relies on historical absenteeism variables available in the dataset and does not incorporate additional organizational or behavioral factors (e.g., job role, work environment, or employee engagement), which may influence prediction accuracy.
+
+<img width="1885" height="1094" alt="Screenshot 2026-03-03 065054" src="https://github.com/user-attachments/assets/7cfdde70-e0f7-43db-98ac-d7035ce54a4e" />
 
 ## Future Scope & Strategic Recommendations
 
