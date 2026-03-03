@@ -76,3 +76,6 @@ Stored model outputs in a MySQL database and created interactive Tableau dashboa
 - Develop an automated ETL process to ingest live HR data and enable real-time absenteeism risk monitoring instead of batch-based predictions.
 - Experiment with ensemble methods such as Random Forest or Gradient Boosting to improve predictive accuracy and capture non-linear relationships.
 - Build a lightweight web application (e.g., using Flask or Streamlit) to allow HR teams to input employee data and instantly receive risk predictions and insights.
+
+  #### ⭐ If you found this project helpful, please consider giving it a star on GitHub!
+Your support motivates me to create more data-driven projects and share useful insights.
