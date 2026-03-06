@@ -38,7 +38,7 @@ Developed a reusable prediction pipeline using Object-Oriented Programming to au
 - Database Integration & Visualization :
 Stored model outputs in a MySQL database and created interactive Tableau dashboards to support stakeholder decision-making.
 
-## Skills & Technologies Used :
+## Skills & Technologies :
 
 - Programming & Data Processing : Python, Pandas
 
